@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/Lynchrocket/Desktop/c、c++/Project/Project2/proj2/src/matrix.cpp
+matrix.hpp
+/mnt/c/Users/Lynchrocket/Desktop/c、c++/Project/Project2/proj2/src/matrix.hpp
+
+/mnt/c/Users/Lynchrocket/Desktop/c、c++/Project/Project2/proj2/src/matrix.hpp
+

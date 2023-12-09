@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/matmul.dir/src/IO.cpp.o CMakeFiles/matmul.dir/src/main.cpp.o CMakeFiles/matmul.dir/src/matrix.cpp.o  -o matmul 

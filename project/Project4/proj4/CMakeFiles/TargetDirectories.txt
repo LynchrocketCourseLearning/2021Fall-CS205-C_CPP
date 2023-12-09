@@ -1,0 +1,3 @@
+/mnt/d/Lynchrocket/大二上/c、c++/Project/Project4/proj4/CMakeFiles/rebuild_cache.dir
+/mnt/d/Lynchrocket/大二上/c、c++/Project/Project4/proj4/CMakeFiles/edit_cache.dir
+/mnt/d/Lynchrocket/大二上/c、c++/Project/Project4/proj4/CMakeFiles/matmul.dir

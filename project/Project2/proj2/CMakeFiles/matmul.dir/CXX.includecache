@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/Lynchrocket/Desktop/c、c++/Project/Project2/proj2/inc/IO.hpp
+iostream
+-
+fstream
+-
+string
+-
+cstring
+-
+iomanip
+-
+
+/mnt/c/Users/Lynchrocket/Desktop/c、c++/Project/Project2/proj2/inc/matrix.hpp
+
+/mnt/c/Users/Lynchrocket/Desktop/c、c++/Project/Project2/proj2/src/main.cpp
+../inc/IO.hpp
+/mnt/c/Users/Lynchrocket/Desktop/c、c++/Project/Project2/proj2/inc/IO.hpp
+../inc/matrix.hpp
+/mnt/c/Users/Lynchrocket/Desktop/c、c++/Project/Project2/proj2/inc/matrix.hpp
+ctime
+-
+
